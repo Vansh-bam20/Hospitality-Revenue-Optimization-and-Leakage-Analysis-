@@ -134,13 +134,9 @@ The project recommends **pivoting those areas into co-working spaces** during we
 
 ---
 
-## 👥 Contributors
-
-* **Vansh** – Data Analysis, Visualization, and Consulting Recommendations
-
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 This project demonstrates how **data-driven insights** can transform hotel management and profitability.
 By analyzing internal performance metrics and applying targeted recommendations, hospitality businesses can **reduce revenue leakage, optimize pricing, and improve guest satisfaction** sustainably.
