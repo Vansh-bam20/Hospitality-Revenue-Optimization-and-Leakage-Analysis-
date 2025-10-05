@@ -1,8 +1,8 @@
 
 
-# 🏨 Optimizing Revenue Leakage & Profitability in the Hospitality Sector
+#  Optimizing Revenue Leakage & Profitability in the Hospitality Sector
 
-### @caciitg
+
 
 ## 📘 Introduction
 
@@ -11,7 +11,7 @@ In the competitive and dynamic **hospitality industry**, hotels and resorts ofte
 These issues commonly stem from:
 
 * Inefficient pricing strategies
-* Low-performing service segments (e.g., spa, event hosting, room service)
+* Low-performing service segments (e.g., event hosting, room service)
 * Poor upselling and cross-selling performance
 * Misaligned customer targeting
 * Seasonal demand mismanagement
@@ -27,10 +27,10 @@ To analyze hotel performance data, identify potential sources of revenue leakage
 
 **Key Focus Areas:**
 
-1. Data-driven analysis of bookings, room types, and service usage.
+1. Data-driven analysis of bookings, room types.
 2. Root-cause identification for underperforming areas.
 3. Strategic consulting recommendations for revenue optimization.
-4. Quantitative business justification and ROI projections.
+4. Quantitative business justification.
 5. Visualization dashboards for clear storytelling.
 
 ---
@@ -41,7 +41,6 @@ To analyze hotel performance data, identify potential sources of revenue leakage
 
 * Booking trends: **Weekday vs. Weekend**, **Room Type Distribution**
 * **Seasonal Occupancy vs. Revenue** correlation
-* Ancillary service usage (spa, meals, transport, etc.)
 * Customer segmentation based on **spending behavior**
 
 ### 2. Root Cause Analysis
@@ -96,11 +95,9 @@ The project recommends **pivoting those areas into co-working spaces** during we
 
 ## ⚙️ Tools & Technologies Used
 
-* **Python (Pandas, NumPy, Matplotlib, Seaborn)** – for data cleaning and visualization
-* **SQL / MySQL** – for data extraction and transformation
+* **SQL / MySQL** – for data extraction and transformation and generating useful results 
 * **Power BI / Tableau** – for interactive dashboarding
 * **Excel** – for ROI and scenario analysis
-* **Jupyter Notebook** – for analysis documentation and presentation
 
 ---
 
@@ -113,11 +110,6 @@ The project recommends **pivoting those areas into co-working spaces** during we
 
 ---
 
-## 🧭 Future Enhancements
-
-* Integrate **machine learning models** for demand forecasting
-* Implement **real-time dynamic pricing** suggestions
-* Expand analysis to include **customer sentiment (NLP)** from reviews
 
 ---
 
@@ -145,7 +137,6 @@ The project recommends **pivoting those areas into co-working spaces** during we
 ## 👥 Contributors
 
 * **Vansh** – Data Analysis, Visualization, and Consulting Recommendations
-* **@caciitg Team** – Project Guidance and Business Framework Support
 
 ---
 
